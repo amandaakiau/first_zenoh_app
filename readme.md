@@ -39,6 +39,8 @@ $ python3 z_subscriber.py
 ```
 
 
-## Referência 
+## Referências
 
+https://pypi.org/project/eclipse-zenoh/ 
+ 
 https://zenoh.io/docs/getting-started/first-app/
