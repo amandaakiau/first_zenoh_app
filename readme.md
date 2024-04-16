@@ -1,4 +1,4 @@
-# Primeiro Zenoh app
+# Primeiro Zenoh app  (linux)
 
 ## Pré-requisitos:
 
